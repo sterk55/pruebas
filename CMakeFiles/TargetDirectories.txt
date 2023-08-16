@@ -1,0 +1,14 @@
+/workspace/pruebas/CMakeFiles/prueba.dir
+/workspace/pruebas/CMakeFiles/edit_cache.dir
+/workspace/pruebas/CMakeFiles/rebuild_cache.dir
+/workspace/pruebas/CMakeFiles/list_install_components.dir
+/workspace/pruebas/CMakeFiles/install.dir
+/workspace/pruebas/CMakeFiles/install/local.dir
+/workspace/pruebas/CMakeFiles/install/strip.dir
+/workspace/pruebas/_deps/fmt-build/CMakeFiles/fmt.dir
+/workspace/pruebas/_deps/fmt-build/CMakeFiles/edit_cache.dir
+/workspace/pruebas/_deps/fmt-build/CMakeFiles/rebuild_cache.dir
+/workspace/pruebas/_deps/fmt-build/CMakeFiles/list_install_components.dir
+/workspace/pruebas/_deps/fmt-build/CMakeFiles/install.dir
+/workspace/pruebas/_deps/fmt-build/CMakeFiles/install/local.dir
+/workspace/pruebas/_deps/fmt-build/CMakeFiles/install/strip.dir

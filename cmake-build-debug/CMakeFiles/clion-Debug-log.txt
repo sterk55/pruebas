@@ -1,0 +1,12 @@
+/ide-desktop/clion/backend/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /workspace/pruebas -B /workspace/pruebas
+CMake Error at CMakeLists.txt:8 (include):
+  include could not find requested file:
+
+    cmake/CPM.cmake
+
+
+CMake Error at CMakeLists.txt:11 (CPMAddPackage):
+  Unknown CMake command "CPMAddPackage".
+
+
+-- Configuring incomplete, errors occurred!
